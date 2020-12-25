@@ -11,6 +11,10 @@ Castle Defender is a tower defense game for mobile, the objective of the game is
 1. Clicking on one of the cannons listed, the player can see the highlighted areas to place the cannons.
 2. By clicking on placed cannons, the player will have an option to upgrade it.
 
+### Game Click
+
+The game is published on playstore. <a href="https://play.google.com/store/apps/details?id=com.TongueOut.CastleDefender" target="_blank">Castle Defender Playstore link is </a><a href="https://play.google.com/store/apps/details?id=com.TongueOut.CastleDefender" target="_blank">https://play.google.com/store/apps/details?id=com.TongueOut.CastleDefender</a>
+
 ## Group Members:
 1. Jayashree Srinivasan (002268593)
 2. Serlin Tamilselvam (002267722)
